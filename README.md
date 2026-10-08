@@ -2,7 +2,7 @@
 
 _Last updated: October 8, 2026_
 
-Feed Block is a Chrome extension that hides endless feeds on YouTube, Facebook, TikTok, Instagram, X (Twitter), Reddit, LinkedIn, Pinterest, and Snapchat.
+Feed Block is a Chrome extension that hides endless feeds on YouTube, Facebook, TikTok, Instagram, X (Twitter), Reddit, LinkedIn, Pinterest, Snapchat, and Threads.
 
 ## What it collects
 
@@ -22,7 +22,7 @@ Nothing ever leaves your browser through Feed Block.
 
 | Permission | Why |
 | --- | --- |
-| Access to youtube.com, facebook.com, tiktok.com, instagram.com, x.com, twitter.com, reddit.com, linkedin.com, pinterest.com, and snapchat.com | To hide feeds on those sites. Feed Block runs only there. |
+| Access to youtube.com, facebook.com, tiktok.com, instagram.com, x.com, twitter.com, reddit.com, linkedin.com, pinterest.com, snapchat.com, threads.com, and threads.net | To hide feeds on those sites. Feed Block runs only there. |
 | `storage` | To save your settings. |
 | `activeTab` | So the popup's "Allow this group" and "Allow this subreddit" buttons can read the address of the page you are on, only when you open the popup. |
 
